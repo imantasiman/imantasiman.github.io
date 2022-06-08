@@ -2,14 +2,6 @@
   padding-top: 6rem;
   background-color: hsl(38, 89%, 83%);
 }
-.box {
-  text-align: center;
-  margin: 0 auto;
-}
-.box .col-none-4 {
-  float: left;
-  margin: 0 auto;
-}
 section {
   padding-top: 7rem;
 }
