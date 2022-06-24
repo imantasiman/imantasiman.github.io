@@ -1,10 +1,11 @@
 .jumbotron {
     padding-top: 6rem;
-    background-color: hsl(38, 89%, 83%);
+    background-color: lightgray;
 }
 
 section {
     padding-top: 6rem;
+    margin: 0;
 }
 
 * {
